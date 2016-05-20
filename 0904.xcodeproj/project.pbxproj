@@ -156,6 +156,7 @@
 		245273B81B99A597001063C1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "天毛 瞬";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				245273E11B99A597001063C1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		245273E21B99A597001063C1 /* Build configuration list for PBXNativeTarget "0904Tests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				245273E41B99A597001063C1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
